@@ -27,6 +27,7 @@ JavaScript'in tarihsel gelişimine bakarsak:
   * Modern framework'ler ve kütüphaneler (React, Angular, Vue.js gibi) sayesinde JavaScript, karmaşık uygulamaların geliştirilmesinde yaygın olarak kullanılmaktadır.
 
 **2. Java ile JavaScript arasındaki fark nedir?**
+
 Java ve JavaScript, isimlerinden ve benzer bir sözdizimine sahip olmalarına rağmen, temelde farklı programlama dilleridir ve farklı amaçlara hizmet ederler. 
 
 **Amaç:**
